@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addOn>
+  <identifier>fc61eb1e-7f44-4ddc-b21e-07f65ebe95aa</identifier>
+  <displayType>Function</displayType>
+  <translatedDisplayType>
+    <en_US>Function</en_US>
+    <ja_JP>関数</ja_JP>
+    <ko_KR>함수</ko_KR>
+    <zh_CN>函数</zh_CN>
+  </translatedDisplayType>
+  <name>dfield9(action,input1,input2,input3)</name>
+  <author>Iourii Kouznetsov</author>
+  <version>1.0.0.0</version>
+  <downloadUrl>https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/65886/versions/2/download/zip?src=addons_ml_desktop_install&amp;profile_id=9656636&amp;license=40541615&amp;release_family=R2018b</downloadUrl>
+  <previewImageUrl>https://www.mathworks.com/responsive_image/160/120/0/0/0/cache/matlabcentral/images/default_screenshot.jpg</previewImageUrl>
+  <installationFolder>Functions</installationFolder>
+</addOn>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<addonCore>
+
+  <label>dfield9(action,input1,input2,input3)</label>
+
+  <version>1.0.0.0</version>
+
+  <type>zip</type>
+
+  <identifier>fc61eb1e-7f44-4ddc-b21e-07f65ebe95aa</identifier>
+
+  <createdBy name="Iourii Kouznetsov"/>
+
+  <image>resources/screenshot.png</image>
+
+</addonCore>
