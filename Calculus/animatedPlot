@@ -1,0 +1,16 @@
+close all
+clear all
+
+syms x(t) y(t) z(t);
+
+x(t) = cos(t);
+y(t) = sin(t);
+z(t) = t;
+
+fp = fplot3(x(t), y(t), z(t));
+
+for i = 0 : pi/10 : 4*pi
+    fp.ZFunction = t + i;
+    drawnow
+end
+
